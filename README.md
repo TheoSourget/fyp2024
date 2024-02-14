@@ -1,5 +1,5 @@
 # Projects in Data Science - Medical Imaging
-This repo is for the group H
+This repo is for the group H for the project in data science course!
 
 ## Overview
 
